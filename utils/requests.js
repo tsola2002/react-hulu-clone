@@ -30,15 +30,15 @@ export default {
         url: `/discover/movie?api_key=${API_KEY}&with_genres=9648`,
     },
     fetchMysteryMovies: {
-        title: "Mystery",
+        title: "Sci-Fi",
         url: `/discover/movie?api_key=${API_KEY}&with_genres=9648`,
     },
-    Scifi: {
-        title: "Mystery",
+    Western: {
+        title: "Western",
         url: `/discover/movie?api_key=${API_KEY}&with_genres=9648`,
     },
-    Shows: {
-        title: "Mystery",
+    Animation: {
+        title: "Animation",
         url: `/discover/movie?api_key=${API_KEY}&with_genres=9648`,
     },
 }
